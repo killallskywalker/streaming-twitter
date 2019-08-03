@@ -1,0 +1,20 @@
+{
+  "name": "stream-twitter",
+  "version": "1.0.0",
+  "description": "Stream twitter realtime and push to client side using web socket for realtime update .",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": "killallskywalker",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "pusher": "^2.2.2",
+    "twitter": "^1.7.1"
+  }
+}
