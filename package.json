@@ -4,7 +4,8 @@
   "description": "Stream twitter realtime and push to client side using web socket for realtime update .",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "keywords": [
     "twitter"
